@@ -31,6 +31,16 @@ a proposal for your work first, to be sure that we can use it.
 Before you submit an issue, please search the issue tracker, maybe an issue for your identified problem already exists and you can join the discussion there only.
 For bugs, please try to provide as much information possible to reproduce it as possible, that will really help us a lot!
 
+**Great Bug Reports** tend to have:
+
+- A quick summary and/or background
+- Steps to reproduce
+  - Be specific!
+  - Give sample code if you can.
+- What you expected would happen
+- What actually happens
+- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
+
 ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
 1. Make sure there is an issue open for the PR and it is assigned to you before starting any work. That way it'll be helpful to eliminate duplicate efforts.
 2. Fork the repo. If already have one, checkout the latest master from upstream.

@@ -1,4 +1,7 @@
-<!-- Add the issue number that is fixed by this PR (In the form Fixes #123) -->
+<!-- 
+Thanks for contributing to the project. Please follow the guidelines
+below:
+Add the issue number that is fixed by this PR (In the form Fixes #123) -->
 Fixes #
 
 #### Checklist
@@ -9,5 +12,8 @@ Fixes #
 
 #### Changes proposed in this pull request:
 
--
--
+ <!-- Describe how this PR will make our project even more awesome.
+ If this solves an issue, please reference it in this PR. -->
+
+
+
