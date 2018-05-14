@@ -1,7 +1,13 @@
 <!-- 
 Thanks for contributing to the project. Please follow the guidelines
 below:
-Add the issue number that is fixed by this PR (In the form Fixes #123) -->
+Please provide reference to active issue here.
+Add the issue number that is fixed by this PR (In the form Fixes #123) 
+
+Attention !!
+
+An active issue is required for a PR to be reviewed. 
+If you do not provide one, you pull request might be closed by collaborators.-->
 Fixes #
 
 #### Checklist
@@ -12,8 +18,7 @@ Fixes #
 
 #### Changes proposed in this pull request:
 
- <!-- Describe how this PR will make our project even more awesome.
- If this solves an issue, please reference it in this PR. -->
+ <!-- Describe how this PR will make our project even more awesome. -->
 
 
 
